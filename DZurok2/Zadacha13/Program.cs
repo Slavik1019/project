@@ -5,4 +5,7 @@ if (num > 99)
 {
     Console.WriteLine(num.ToString()[2]);
 }   
-else Console.WriteLine("Третьей цифры нет");
+else 
+{
+    Console.WriteLine("Третьей цифры нет");
+}
